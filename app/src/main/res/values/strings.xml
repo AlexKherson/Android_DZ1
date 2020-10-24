@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DZ_1110</string>
+    <string name="Town">Херсон</string>
+    <string name="conditions">Переменная облачность</string>
+    <string name="max_temp">+23</string>
+    <string name="humidity">Влажность:65%</string>
+    <string name="wind">Ветер ССЗ 7 км/ч</string>
+    <string name="min_temp">+19</string>
+    <string name="monday">пн</string>
+    <string name="clear_weather">ясно</string>
+    <string name="_17">+17</string>
+    <string name="_22">+22</string>
+    <string name="tuesday">вт</string>
+    <string name="wednesday">ср</string>
+    <string name="storm">гроза</string>
+    <string name="thursday">чт</string>
+    <string name="cloudy">обл</string>
+    <string name="friday">пт</string>
+    <string name="saturday">сб</string>
+    <string name="sunday">вс</string>
+    <string name="fog">туман</string>
+</resources>
