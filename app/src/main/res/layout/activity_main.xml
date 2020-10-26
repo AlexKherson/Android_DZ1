@@ -15,7 +15,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="35dp"
+                android:textSize="35sp"
                 android:layout_weight="1">
 
             </TextView>
@@ -23,13 +23,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/Town"
-                android:textSize="35dp"
+                android:textSize="35sp"
                 android:layout_weight="1">
             </TextView>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="35dp"
+                android:textSize="35sp"
                 android:layout_weight="1">
 
             </TextView>
